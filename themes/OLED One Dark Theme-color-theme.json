@@ -2,8 +2,6 @@
 	"name": "OLED One Dark Theme",
 	"type": "dark",
 	"colors": {
-    // Basic text color
-    // #d4d4d4 is used rather than #fff because it fits better with the other syntax colors, all of which are taken from the vscode dark plus theme.
     "editor.foreground": "#d4d4d4",
     "sideBarTitle.foreground": "#d4d4d4",
     "sideBar.foreground": "#d4d4d4",
