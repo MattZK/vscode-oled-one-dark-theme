@@ -1,0 +1,21 @@
+{
+  "name": "vscode-oled-one-dark",
+  "displayName": "vscode-oled-one-dark",
+  "description": "OLED One Dark Theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.36.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "OLED One Dark Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/OLED One Dark Theme-color-theme.json"
+      }
+    ]
+  }
+}
